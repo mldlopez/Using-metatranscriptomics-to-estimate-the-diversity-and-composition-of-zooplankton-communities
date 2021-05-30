@@ -1,6 +1,6 @@
 # Using metatranscriptomics in estimating diversity and composition of zooplankton communities
 
-Mark Louie D. Lopez, Ya-Ying Lin, Mitsuhide Sato, Chih-hao Hsieh, Fuh-Kwo Shiah, and Ryuji J. Machida
+<b> Mark Louie D. Lopez, Ya-Ying Lin, Mitsuhide Sato, Chih-hao Hsieh, Fuh-Kwo Shiah, and Ryuji J. Machida </b>
 
 Biodiversity Program, Taiwan International Graduate Program, Academia Sinica, Nankang District, Taipei 11529, Taiwan, Republic of China.*
 
