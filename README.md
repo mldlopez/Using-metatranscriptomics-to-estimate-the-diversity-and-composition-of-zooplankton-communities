@@ -23,7 +23,6 @@ DNA metabarcoding is a rapid, high-resolution tool used for biomonitoring comple
 
 <p align="center">
   <img src="https://github.com/mldlopez/Using-metatranscriptomics-to-estimate-the-diversity-and-composition-of-zooplankton-communities/blob/master/Figure%202.jpeg" width="350" title="hover text">
-  <img src="https://github.com/mldlopez/Using-metatranscriptomics-to-estimate-the-diversity-and-composition-of-zooplankton-communities/blob/master/Figure%202.jpeg" width="350" alt="accessibility text">
 </p>
 
   
